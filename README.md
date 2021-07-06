@@ -1,5 +1,13 @@
- # **Oi, eu sou a @𝐆𝐑𝐙𝐇𝐈!** 
+────────────────────────────────────────────────────────
 
->##### 𝗌𝖾𝗆𝗉𝗋𝖾 𝖺𝗉𝗋𝖾𝗇𝖽𝖾𝗇𝖽𝗈, 𝖺𝗇𝖽𝖺𝗇𝖽𝗈 𝗃𝗎𝗇𝗍𝗈 𝖼𝗈𝗆 𝗈 𝗍𝖾𝗆𝗉𝗈 𝖺𝖽𝗊𝗎𝗂𝗋𝗂𝗇𝖽𝗈 𝖼𝗈𝗇𝗁𝖾𝖼𝗂𝗆𝖾𝗇𝗍𝗈.
+# **Oi, eu sou a @𝐆𝐑𝐙𝐇𝐈!**  
 
+>#### sempre aprendendo, andando junto com o tempo adquirindo conhecimento.
 
+##### Estudante de Ciências da Computação, Desenvolvimento Web e Atualmente no Bootcamp Santander Fullstack💖
+ ## **Mais sobre oque eu gosto** ;
+ * Animais
+ * Café
+ * Inverno
+ * Games FPS/RPG
+ 
